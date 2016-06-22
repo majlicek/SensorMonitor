@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Sensors Monitor</string>
-    <string name="action_settings">Settings</string>
     <string name="title_activity_main">Sensors Monitor</string>
     <string name="ponuka">Vyberte senzor ktorý chcete sledovať</string>
     <string name="accept">Pridať</string>
